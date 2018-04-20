@@ -15,3 +15,15 @@ A collection of funny cvpr2018 project
 | ----- | ------ |
 | ![](docs/dehaze.png) | ![](docs/dehaze_out.png) |
 
+- Density-aware Single Image De-raining using a Multi-stream Dense Network [GitHub](https://github.com/hezhangsprinter/DID-MDN) | [PDF](https://arxiv.org/pdf/1802.07412.pdf)
+
+| Input | Output |
+| ----- | ------ |
+| ![](docs/derain.jpg) | ![](docs/derain_out.jpg) |
+
+
+
+- Deep Back-Projection Networks for Super-Resolution [GitHub](https://github.com/alterzero/DBPN-Pytorch) | [HomePage](https://www.toyota-ti.ac.jp/Lab/Denshi/iim/members/muhammad.haris/projects/DBPN.html) | [PDF](https://arxiv.org/pdf/1803.02735.pdf)
+
+![](docs/dbpn.png)
+
